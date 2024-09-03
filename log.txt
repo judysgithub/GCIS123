@@ -1,0 +1,23 @@
+commit 74336a22ba0b725e53173d8002599620ac7666c5
+Author: judysgithub <judyya18@gmail.com>
+Date:   Thu Aug 29 14:39:19 2024 +0400
+
+    Create judys.txt
+
+commit 5c859f59872a95024cecdf943d09705d22ffa964
+Author: judyy <judyya18@gmail.com>
+Date:   Thu Aug 29 14:13:41 2024 +0400
+
+    updated the string
+
+commit 666214b718218f01625b18ed8de13e9f39bacc9b
+Author: judyy <judyya18@gmail.com>
+Date:   Thu Aug 29 13:45:04 2024 +0400
+
+    updated the string
+
+commit 922625e34961cd5a9f69b896bb7752a1dd68402d
+Author: judyy <judyya18@gmail.com>
+Date:   Thu Aug 29 13:29:31 2024 +0400
+
+    initial commit
